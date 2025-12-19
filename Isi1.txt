@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h3 align="center">Daftar Menu Kantin Kampus</h3>
+<table style="width:600px"; border="1" cellspacing="0"; align="center">
+<TR style="background-color:cornflowerblue;color:white">
+<TD align="center">Gambar</TD>
+<TD align="center">Nama Tempat</TD>
+<TD align="center">Keterangan</TD>
+</TR>
+<TR style="background-color:lightblue; color:white">
+<TD align="center">Mahasiswa</TD>
+<TD align="center">Umum</TD>
+</TR>
+<TR align="center">
+<TD rowspan="3" style="background-color:yellow">Makanan</TD>
+<TD>Nasi Goreng</TD>
+<TD>Rp12.000</TD>
+<TD>Rp15.000</TD>
+</TR>
+</table>
+</body>
+</html>
